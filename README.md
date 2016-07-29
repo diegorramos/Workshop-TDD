@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Polovinsky/Workshop-TDD.svg?branch=master)](https://travis-ci.org/Polovinsky/Workshop-TDD)
+
 # Workshop-TDD
 
 # Cenários de teste:
